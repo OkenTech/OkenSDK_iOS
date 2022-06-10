@@ -1,0 +1,11 @@
+framework module OkenSDK {
+  umbrella header "OkenSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module OkenSDK.Swift {
+    header "OkenSDK-Swift.h"
+    requires objc
+}
