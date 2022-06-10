@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'David Dreval' => 'david@oken.tech' }
   s.source           = { :git => 'https://github.com/OkenDev/OkenSDK_iOS.git' }
-  s.resources        = ['OkenSDK.doccarchive']
+  s.documentation_url = 'https://github.com/OkenDev/OkenSDK_iOS/tree/main/OkenSDK.doccarchive'
   
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
