@@ -1,6 +1,6 @@
 # OkenSDK_iOS
 
-***To get access key, please visit https://oken.tech and contact us or send us an email to info@oken.tech!***
+***To get access key, please visit https://oken.tech or contact us via email info@oken.tech!***
 
 ## How to import Oken SDK to your iOS Project
 
