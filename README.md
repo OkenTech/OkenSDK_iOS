@@ -13,7 +13,7 @@ platform :ios, '13.0'
 
 target 'testsdk' do
 
- pod 'OkenSDK', :git => 'https://github.com/OkenDev/OkenSDK_iOS.git'
+ pod 'OkenSDK', :git => 'https://github.com/OkenTech/OkenSDK_iOS.git'
 end
 ```
 
